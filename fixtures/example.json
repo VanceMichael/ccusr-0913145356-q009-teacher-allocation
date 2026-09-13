@@ -1,0 +1,14 @@
+{
+  "mentor": {
+    "id": "T-17",
+    "subjects": [
+      "物理"
+    ],
+    "capacity": 3
+  },
+  "gap": {
+    "school": "SCH-08",
+    "subject": "物理",
+    "weeks": 6
+  }
+}
